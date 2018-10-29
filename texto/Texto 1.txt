@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+<h1><strong>Este es el encabezado 1</strong></h1>
+<h2><strong>Este es el encabezado 2</strong></h2>
+<h3><strong>Este es el encabezado 3</strong></h3>
+<h4><strong>Este es el encabezado 4</strong></h4>
+<h5><strong>Este es el encabezado 5</strong></h5>
+</head>
