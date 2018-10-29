@@ -1,5 +1,0 @@
-<!DOCTYPE html>
-<html lang="es">
-
-<head>
-<hit1><strong>Este es el encabezado 1</strong></hit1>
